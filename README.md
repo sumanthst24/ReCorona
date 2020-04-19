@@ -17,11 +17,15 @@ A red zone in which intensity which indicates it as the number of recovered pati
 ![op3](https://user-images.githubusercontent.com/45101690/79693793-6d5b0200-828a-11ea-8a21-834de4b68c15.jpeg)
 
 3D view of an area
+
 ![op4](https://user-images.githubusercontent.com/45101690/79693796-6f24c580-828a-11ea-9bff-c2ce42794139.jpg)
 
 Tracking of recovered patients with their ID
 ![op5](https://user-images.githubusercontent.com/45101690/79693797-6fbd5c00-828a-11ea-9ebb-f3e62b5959dd.jpeg)
 
 3D view of a monument
+
 ![WhatsApp Image 2020-04-19 at 8 28 36 PM](https://user-images.githubusercontent.com/45101690/79693959-35a08a00-828b-11ea-9aee-099b7837db1a.jpeg)
+
+The demo apk for the project is available [here](https://github.com/krharsh17/barview-android/blob/develop/demo-apk/app-debug.apk)
 
