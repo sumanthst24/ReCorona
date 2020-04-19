@@ -27,5 +27,4 @@ Tracking of recovered patients with their ID
 
 ![WhatsApp Image 2020-04-19 at 8 28 36 PM](https://user-images.githubusercontent.com/45101690/79693959-35a08a00-828b-11ea-9aee-099b7837db1a.jpeg)
 
-The demo apk for the project is available [here](https://github.com/krharsh17/barview-android/blob/develop/demo-apk/app-debug.apk)
-
+The demo apk for the project is available [here]
